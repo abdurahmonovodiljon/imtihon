@@ -1,0 +1,216 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  max-width: 1150px;
+  padding: 0px 20px;
+  margin: 0 auto;
+}
+
+.img{
+ margin: 31px;
+}
+
+.about:hover{
+  color: green;
+}
+
+.home{
+  display: flex;
+  justify-content:flex-end;
+  margin: -59px 10px;
+  gap: 32px;
+}
+
+ a{
+  text-decoration: none;
+  color: black;
+}
+
+.button{
+  width: 134px;
+  height: 38px;
+  background: rgb(9, 158, 9);
+  color: white;
+  border: none;
+  border-radius: 50px;
+  margin: -11px 12px;
+}
+
+.doctor{
+    color: green;
+}
+
+.h1{
+   margin: 222px 50px;
+   font-size: 38px;
+}
+
+.our-p{
+   margin: -203px 56px;
+}
+
+.image{
+   display: flex; 
+   justify-content: flex-end;
+   height: 451px;
+   margin: -256px 23px;
+}
+
+.btn{
+   border: none;
+   width: 179px;
+   height: 47px;
+   background: rgb(9, 158, 9);  
+   color: white;
+   margin: 96px 58px;
+   border-radius: 50px;
+}
+
+.meeta{
+   font-size: 30px;
+   margin: 100px 50px;
+}
+
+.all{
+   display: flex;
+   justify-content: flex-end;
+   margin-top: -120px;
+   gap: 30px;
+}
+
+.logo{
+   margin: 210px 65px;
+}
+
+.khader{
+   font-size: 15px;
+   margin: -188px 73px;
+}
+
+.and{
+    margin: 207px 73px;
+}
+
+.car{
+   margin: 13px 0;
+}
+
+.alt{
+  margin-left: 320px;
+  margin-top:-620px;
+}
+
+.english{
+ margin: 322px;
+ margin-top: 35px;
+}
+
+.rancho{
+ font-size: 16px;
+ padding-left: 322px;
+}
+
+.your{
+  display: flex;
+  font-size: 40px;
+  padding-top: 108px;
+}
+
+.hello{
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -25px;
+  gap: 30px;
+}
+
+.add{
+  display: flex;
+  flex-direction: column;
+}
+
+.init{
+  font-size: 20px;
+}
+
+.content{
+  display: flex;
+  padding-top: 50px;
+  gap: 60px;
+}
+
+.com{
+  padding-top: 40px;
+}
+
+.span{
+  font-size: 26px;
+  padding-top: 106px;
+  padding-left: 0px;
+}
+
+.image-2{
+  margin-top: 70px;
+  margin-left: 0px;
+}
+
+.sleep{
+  max-width: 194px;
+  margin: 12px;
+  margin-left: 0px;
+}
+
+.css{
+  display: flex;
+  gap: 50px;
+}
+
+.footer{
+  margin-top: 75px;
+  background: #FFFFFF;
+  padding: 94px 150px;
+}
+
+.footer-title{
+  padding-top: 24px;
+  color: rgba(0, 0, 0, 0.6);
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 40px;
+}
+
+.footer-img{
+  padding-top: 75px;
+}
+
+.footer-titles{
+  color: #000000;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.footer-card{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-text{
+  padding-top: 22px;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.footer-info{
+  display: flex;
+  align-items: stretch;
+  gap: 60px ;
+}
+
+.footer-blog{
+  margin-left: -125px;
+}
